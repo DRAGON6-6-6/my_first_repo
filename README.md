@@ -11,4 +11,5 @@
 
 Добавили текст в новой ветке newbranch
 
-Hfphtiftv rjvakbrn
+
+Разрешаем конфликт
